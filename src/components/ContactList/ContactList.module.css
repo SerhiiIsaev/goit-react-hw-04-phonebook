@@ -1,0 +1,22 @@
+.contactList{
+    width: 300px;
+    padding: 20px;
+}
+
+.listItem{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.listItemText{
+    margin: 0px;
+    margin-right: 20px;
+}
+
+.listItemBtn{
+    margin-right: 20px;
+    margin-left: auto;
+    max-height: fit-content;
+    border-radius: 5px;
+    cursor: pointer;
+}

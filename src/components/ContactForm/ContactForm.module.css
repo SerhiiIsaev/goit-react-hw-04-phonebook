@@ -1,0 +1,23 @@
+.contactForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.inputName{
+    margin-bottom: 15px;
+    width: 260px;
+}
+
+.inputTel {
+    margin-bottom: 15px;
+    width: 260px;
+}
+
+.contactFormBtn{
+    cursor: pointer;
+}
